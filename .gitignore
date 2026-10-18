@@ -1,0 +1,13 @@
+# build
+build/
+cmake-build-*/
+
+# local config & downloads
+config.json
+wayback/
+
+# editor/OS
+.vscode/
+.idea/
+*.swp
+.DS_Store

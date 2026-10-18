@@ -1,0 +1,16 @@
+{
+  "url": "http://www.habbohotel.com/dcr/release6_20040906/",
+  "out": "./wayback",
+  "jobs": 4,
+  "limit": 100000,
+  "from": "",
+  "to": "",
+  "all": false,
+  "force": false,
+  "dry_run": false,
+  "verbose": false,
+  "manifest": "",
+  "user_agent": "wayback-dl/1.0",
+  "sleep_ms": 0,
+  "timeout": 600
+}
